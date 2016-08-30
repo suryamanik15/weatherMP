@@ -1,0 +1,2 @@
+# weatherMP
+Weather Mapping atau WeatherMP adalah sebuah layanan forecasting cuaca Online yang memanfaatkan data melalui  API yang disediakan oleh Server BMKG dan OpenweatherMap. Operator maupun public user dapat melihat informasi data cuaca secara Real-Time terkini. Khusus untuk Operator dapat melakukan proses forecasting data cuaca, sedangkan public user dapat melihat informasi cuaca aktual dan informasi hasil forecasting beberapa hari kedepan.
